@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Fullstack Development 🚀 while sharpening my DSA skills in C++ 💻⚡**
 
-- 👯 I’m looking to collaborate on **on projects that challenge creativity, performance, and scalability 🛠️🔥**
+- 👯 I’m looking to collaborate on **projects that challenge creativity, scalability 🛠️🔥**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SHREYASHTYAGI](https://github.com/SHREYASHTYAGI)
 
